@@ -1,7 +1,7 @@
-<a href="https://javed-gulzar.github.io"><img src="./banner.jpg" alt="AI & custom systems for small businesses. Fewer missed calls. Less manual work." width="100%"></a>
+<a href="https://javedahmed-ai.github.io"><img src="./banner.jpg" alt="AI & custom systems for small businesses. Fewer missed calls. Less manual work." width="100%"></a>
 
 <p align="center">
-  <a href="https://javed-gulzar.github.io"><img src="https://img.shields.io/badge/Portfolio-javed--gulzar.github.io-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://javedahmed-ai.github.io"><img src="https://img.shields.io/badge/Portfolio-javedahmed--ai.github.io-2DD4BF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/javedahmmed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.fiverr.com/javedahmed1998"><img src="https://img.shields.io/badge/Fiverr-Hire%20me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20new%20projects-22C55E?style=for-the-badge" alt="Open to new projects">
@@ -26,13 +26,13 @@ based_in:  Indonesia · working remotely with clients in the US & Europe
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://javed-gulzar.github.io/#work"><img src="./join-intake.jpg" alt="Join Intake dashboard"></a>
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./join-intake.jpg" alt="Join Intake dashboard"></a>
       <h3>📞 Join Intake: AI receptionist</h3>
       Picks up every call 24/7, answers questions, summarises the call and books the appointment.<br><br>
       <code>Voice AI</code> <code>LLM</code> <code>Booking</code> <code>Dashboard</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://javed-gulzar.github.io/#work"><img src="./pharmadienst.jpg" alt="PharmaDienst shift plan"></a>
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./pharmadienst.jpg" alt="PharmaDienst shift plan"></a>
       <h3>💊 PharmaDienst: pharmacy scheduling</h3>
       Shift planning, absences and timesheets for pharmacy teams in Germany, across multiple branches.<br><br>
       <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code>
@@ -40,13 +40,13 @@ based_in:  Indonesia · working remotely with clients in the US & Europe
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://javed-gulzar.github.io/#work"><img src="./pharmadienst-booking.jpg" alt="Online booking page"></a>
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./pharmadienst-booking.jpg" alt="Online booking page"></a>
       <h3>📅 Smart Booking: online appointments</h3>
       Public booking page for pharmacy services such as vaccinations and health checks, with no double-booking.<br><br>
       <code>Availability engine</code> <code>Reminders</code> <code>GDPR</code>
     </td>
     <td width="50%" valign="top">
-      <a href="https://javed-gulzar.github.io/#work"><img src="./investor-portal.jpg" alt="Investor portal"></a>
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./investor-portal.jpg" alt="Investor portal"></a>
       <h3>🏢 Investor portal: real estate</h3>
       Projects, documents and progress updates for investors, with role-based access per project.<br><br>
       <code>Auth & roles</code> <code>Documents</code> <code>Dashboards</code>
@@ -54,7 +54,7 @@ based_in:  Indonesia · working remotely with clients in the US & Europe
   </tr>
 </table>
 
-<sub>Client code is private. Screenshots show demo environments with sample data. More on the <a href="https://javed-gulzar.github.io">portfolio</a>.</sub>
+<sub>Client code is private. Screenshots show demo environments with sample data. More on the <a href="https://javedahmed-ai.github.io">portfolio</a>.</sub>
 
 ---
 
