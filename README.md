@@ -60,7 +60,7 @@ based_in:  Indonesia · working remotely with clients in the US & Europe
 
 ## 🛠️ What I can build for you
 
-| | |
+| Service | What you get |
 |---|---|
 | 🤖 **AI receptionists & voice agents** | Answer calls 24/7, qualify callers, book appointments, transfer urgent calls |
 | 💬 **Chatbots & AI assistants** | Website and WhatsApp bots trained on your services, prices and FAQs |
