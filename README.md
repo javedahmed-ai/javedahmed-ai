@@ -73,10 +73,11 @@ based_in:  Indonesia · working remotely with clients in the US & Europe
       Website and custom admin for a steel deck manufacturer, with live chat, interactive 3D projects and built-in analytics.<br><br>
       <code>CMS</code> <code>3D models</code> <code>Live chat</code> <code>Analytics</code>
     </td>
-    <td width="50%" valign="middle" align="center">
-      <h3>💡 Your project next?</h3>
-      Missed calls, manual bookings or a business running on spreadsheets? Tell me what's slowing you down.<br><br>
-      <a href="https://www.linkedin.com/in/javedahmmed/"><b>Message me on LinkedIn →</b></a>
+    <td width="50%" valign="top">
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./takeoff-plan.jpg" alt="Steel deck takeoff tool"></a>
+      <h3>📐 AI takeoff tool for estimators</h3>
+      Upload a PDF drawing, let AI detect the scale and specs, measure deck areas and export a full bill of materials.<br><br>
+      <code>PDF parsing</code> <code>AI</code> <code>Canvas drawing</code> <code>Estimating</code>
     </td>
   </tr>
 </table>
