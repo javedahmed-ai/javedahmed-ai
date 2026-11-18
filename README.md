@@ -52,6 +52,33 @@ based_in:  Indonesia · working remotely with clients in the US & Europe
       <code>Auth & roles</code> <code>Documents</code> <code>Dashboards</code>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./cyberbike-ai-chat.jpg" alt="CyberBike AI assistant"></a>
+      <h3>🚲 CyberBike: e-commerce admin + AI chat</h3>
+      Custom store backend for a US e-bike brand, with an AI assistant answering product, financing and order questions 24/7.<br><br>
+      <code>AI chatbot</code> <code>Orders</code> <code>Products</code> <code>SMS campaigns</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./copier1-home.jpg" alt="Copier1 Shopify store"></a>
+      <h3>🖨️ Copier1: Shopify store</h3>
+      Shopify store for a US copier dealer, with a custom theme, model search, filters and quote requests.<br><br>
+      <code>Shopify</code> <code>Liquid</code> <code>Custom theme</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://javedahmed-ai.github.io/#work"><img src="./ced-site.jpg" alt="Cutting Edge Decking website"></a>
+      <h3>🏗️ Cutting Edge Decking: website + CMS</h3>
+      Website and custom admin for a steel deck manufacturer, with live chat, interactive 3D projects and built-in analytics.<br><br>
+      <code>CMS</code> <code>3D models</code> <code>Live chat</code> <code>Analytics</code>
+    </td>
+    <td width="50%" valign="middle" align="center">
+      <h3>💡 Your project next?</h3>
+      Missed calls, manual bookings or a business running on spreadsheets? Tell me what's slowing you down.<br><br>
+      <a href="https://www.linkedin.com/in/javedahmmed/"><b>Message me on LinkedIn →</b></a>
+    </td>
+  </tr>
 </table>
 
 <sub>Client code is private. Screenshots show demo environments with sample data. More on the <a href="https://javedahmed-ai.github.io">portfolio</a>.</sub>
